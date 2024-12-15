@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on moSalon
+- 🔭 I’m currently working on [moSalon](https://molab-itp.github.io/moSalon)
